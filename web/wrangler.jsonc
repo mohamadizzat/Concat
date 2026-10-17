@@ -1,0 +1,6 @@
+{
+  "name": "izzat-editor",
+  "compatibility_date": "2026-10-17",
+  "assets": { "directory": "." },
+  "routes": [{ "pattern": "editor.izzatglobal.com", "custom_domain": true }]
+}
